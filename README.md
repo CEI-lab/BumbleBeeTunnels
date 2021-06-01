@@ -1,9 +1,17 @@
 # BumbleBeeTunnels
 
-This repository concerns the design of an automated entrance monitor for managed bumble bees, and will include:
-* Link to a related, published research paper
-* Link to stl files for 3D printing
-* Component list with purchase links
-* Software for RPi embedded processors
+This repository concerns the design of an automated entrance monitor for managed bumble bees. If you would like to use this tunnel for research purposes, we ask that you reference our paper in any resulting publications. (Bitex coming soon!) 
 
-All files will be uploaded when the paper is released, expected date: June 1st 2021. Feel free to contact kirstin <at> cornell.edu if you would like more information before then.
+* [Research paper](../DARS-SWARM2021_Bumble_Bee_Entrance_Monitor.pdf) 
+* [Research talk](https://youtu.be/VGmVxMhBTXY)
+* [Enclosure, stl files for 3D printing](../3Dprint/readme.md)
+* [Component list with purchase links](../BOM.md)
+* Software for RPi embedded processors (Coming soon!)
+
+![Bumblebee Entrance Monitor](../Figs/Overview_v2.png "Overview")
+
+For more information, please contact kirstin <at> cornell <dot> edu.
+
+
+
+  
