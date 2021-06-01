@@ -8,7 +8,7 @@ This repository concerns the design of an automated entrance monitor for managed
 * [Component list with purchase links](../BOM.md)
 * Software for RPi embedded processors (Coming soon!)
 
-![Bumblebee Entrance Monitor](../Figs/Overview_v2.png "Overview")
+![Bumblebee Entrance Monitor](/Figs/Overview_v2.png "Overview")
 
 For more information, please contact kirstin <at> cornell <dot> edu.
 
